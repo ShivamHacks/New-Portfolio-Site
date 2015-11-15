@@ -11,7 +11,7 @@ body { margin-top: 60px; }
 
 #opener {
 	background: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)),
-	url("imgs/background.jpg") no-repeat scroll top;
+	url("../imgs/background.jpg") no-repeat scroll top;
 	width: 100%;
 	height: calc(100vh - 60px);
 	display:table;
@@ -23,11 +23,11 @@ body { margin-top: 60px; }
 
 #thecompetition {	
 	background: linear-gradient(rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45)),
-	url("imgs/mountain.jpg") no-repeat fixed top;
+	url("../imgs/mountain.jpg") no-repeat fixed top;
 }
 #contactus {	
 	background: linear-gradient(rgba(255, 0, 255, 0.45), rgba(255, 0, 255, 0.45)),
-	url("imgs/city.jpg") no-repeat fixed bottom;
+	url("../imgs/city.jpg") no-repeat fixed bottom;
 }
 
 /* Colors from http://clrs.cc/ */
